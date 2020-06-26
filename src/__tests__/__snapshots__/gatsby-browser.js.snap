@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Apple Icons updates apple icons if navigating to child app 1`] = `
+<head>
+  <link
+    href="/icons/icon_my-app-48x48.png"
+    rel="apple-touch-icon"
+    sizes="48x48"
+  />
+  <link
+    href="/icons/icon_my-app-72x72.png"
+    rel="apple-touch-icon"
+    sizes="72x72"
+  />
+  <link
+    href="/icons/icon_my-app-96x96.png"
+    rel="apple-touch-icon"
+    sizes="96x96"
+  />
+  <link
+    href="/icons/icon_my-app-144x144.png"
+    rel="apple-touch-icon"
+    sizes="144x144"
+  />
+  <link
+    href="/icons/icon_my-app-192x192.png"
+    rel="apple-touch-icon"
+    sizes="192x192"
+  />
+  <link
+    href="/icons/icon_my-app-256x256.png"
+    rel="apple-touch-icon"
+    sizes="256x256"
+  />
+  <link
+    href="/icons/icon_my-app-384x384.png"
+    rel="apple-touch-icon"
+    sizes="384x384"
+  />
+  <link
+    href="/icons/icon_my-app-512x512.png"
+    rel="apple-touch-icon"
+    sizes="512x512"
+  />
+</head>
+`;
